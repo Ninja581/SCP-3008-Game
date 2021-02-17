@@ -2,6 +2,7 @@
 
 ## Credits:
 
+This game made with Unity.
 
 
 ## About SCP-3008
