@@ -35,7 +35,7 @@ Since containment began 14 individuals have managed to exit SCP-3008. Following 
 
 Incident 3008-1: At 00:37 on ██/██/200█ a human male exited SCP-3008, followed 10 seconds later by an instance of SCP-3008-2. SCP-3008-2 caught and killed the man before itself being terminated by armed response personnel. This incident represents the only time an instance of SCP-3008-2 has been seen exiting SCP-3008. A full autopsy on the corpse was performed; see 3008-2 Autopsy Log for more details.
 
-Source: [http://scp-wiki.wikidot.com/scp-3008](http://scp-wiki.wikidot.com/scp-3008){:target="_blank"}
+Source: [http://scp-wiki.wikidot.com/scp-3008](http://scp-wiki.wikidot.com/scp-3008) 
 
 ## Warnings:
 
