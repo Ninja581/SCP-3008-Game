@@ -36,5 +36,6 @@ Incident 3008-1: At 00:37 on ██/██/200█ a human male exited SCP-3008, 
 
 Source: [http://scp-wiki.wikidot.com/scp-3008](http://scp-wiki.wikidot.com/scp-3008)
 
+## Warnings:
 
 
